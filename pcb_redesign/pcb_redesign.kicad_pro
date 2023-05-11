@@ -424,9 +424,9 @@
     },
     "net_colors": null,
     "netclass_assignments": {
-      "Net-(C2-Pad1)": "VCC_3V3",
+      "Net-(C3-Pad2)": "VCC_3V3",
       "Net-(U1-3V3)": "ESP32_3V3",
-      "Net-(U2-VO)": "VCC_3V3",
+      "Net-(U3-EPAD)": "VCC_3V3",
       "unconnected-(A3908EEETR-T1-VDD-Pad3)": "3.7V_unregulated",
       "unconnected-(A3908EEETR-T3-VDD-Pad3)": "3.7V_unregulated",
       "unconnected-(R1-Pad1)": "ESP32_3V3"
