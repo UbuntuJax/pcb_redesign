@@ -1,0 +1,5 @@
+./.vscode/
+./data/
+./franka_panda/
+./blocks/
+./src/.venv/

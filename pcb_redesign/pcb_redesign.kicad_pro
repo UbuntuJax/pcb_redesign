@@ -426,6 +426,9 @@
     "netclass_assignments": {
       "Net-(C2-Pad1)": "VCC_3V3",
       "Net-(U1-3V3)": "ESP32_3V3",
+      "Net-(U2-VO)": "VCC_3V3",
+      "unconnected-(A3908EEETR-T1-VDD-Pad3)": "3.7V_unregulated",
+      "unconnected-(A3908EEETR-T3-VDD-Pad3)": "3.7V_unregulated",
       "unconnected-(R1-Pad1)": "ESP32_3V3"
     },
     "netclass_patterns": []
@@ -489,6 +492,14 @@
     [
       "fb030e39-7dd3-46a0-8379-c26b3ef1b0a0",
       ""
+    ],
+    [
+      "2939bd35-2732-40e2-8b47-7f9c13890d54",
+      "Connector"
+    ],
+    [
+      "6a7629e6-5379-48e0-a979-c6c26844d2b7",
+      "motors"
     ]
   ],
   "text_variables": {}

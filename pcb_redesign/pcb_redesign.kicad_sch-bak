@@ -865,14 +865,14 @@
     )
   )
 
-  (sheet (at 24.13 92.71) (size 35.56 29.21) (fields_autoplaced)
+  (sheet (at 17.78 82.55) (size 35.56 29.21) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 2939bd35-2732-40e2-8b47-7f9c13890d54)
-    (property "Sheetname" "Connector" (at 24.13 91.9984 0)
+    (property "Sheetname" "Connector" (at 17.78 81.8384 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "connector.kicad_sch" (at 24.13 122.5046 0)
+    (property "Sheetfile" "connector.kicad_sch" (at 17.78 112.3446 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
