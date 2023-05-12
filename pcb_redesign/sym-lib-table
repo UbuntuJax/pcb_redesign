@@ -10,5 +10,5 @@
   (lib (name "18k_resistor_0603")(type "KiCad")(uri "${KIPRJMOD}/esp_lib/18k_resistor_0603/RC0603JR-0718KL.kicad_sym")(options "")(descr ""))
   (lib (name "10uf_cap_0603")(type "KiCad")(uri "${KIPRJMOD}/esp_lib/10uF_cap_0603/CL10A106MQ8NNNC.kicad_sym")(options "")(descr ""))
   (lib (name "0_ohm_0603")(type "KiCad")(uri "${KIPRJMOD}/esp_lib/0_ohm_0603/RMCF0603ZT0R00.kicad_sym")(options "")(descr ""))
-  (lib (name "3.3v_reg")(type "Legacy")(uri "${KIPRJMOD}/esp_lib/3.3v_reg/KiCAD/2023-05-11_07-51-52/2023-05-11_07-51-52.lib")(options "")(descr ""))
+  (lib (name "3.3v_reg")(type "Legacy")(uri "${KIPRJMOD}/esp_lib/3.3v_reg/SPX1117M3-L-3-3_TR/KiCad/SPX1117M3-L-3-3_TR.lib")(options "")(descr ""))
 )
