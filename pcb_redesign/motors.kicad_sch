@@ -360,10 +360,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "3.7_UNREG" (shape input) (at 93.98 132.08 0) (fields_autoplaced)
+  (global_label "VCC_3V3" (shape input) (at 93.98 132.08 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid bb6f4430-cfdd-4547-8e57-1933585d11ce)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 107.2272 132.08 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 104.9896 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -411,15 +411,15 @@
     (property "Datasheet" "" (at 81.28 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 59df9d34-634b-46ba-8768-f97d6f11f060))
-    (pin "2" (uuid 53657a38-64c4-4fa4-911f-51f30405f35e))
-    (pin "3" (uuid b90a0676-70e2-4449-94be-b256058505ab))
-    (pin "4" (uuid 5c8df3bd-b8f6-4fed-974b-a748a1198035))
-    (pin "5" (uuid 7db682dc-e43d-4dba-b848-bad45b3eb41f))
-    (pin "6" (uuid 162d2896-671f-4350-8e08-a647d36e8509))
-    (pin "7" (uuid 48e75a35-d816-41de-bc51-74e838749334))
-    (pin "8" (uuid 0d7db1c9-f5ab-4ed1-a061-41c1d850af3a))
-    (pin "9" (uuid 00e94093-6bc9-4090-aa93-4b0610c999cb))
+    (pin "1" (uuid 2cdc3f1f-f02e-405a-9d61-565417875cf5))
+    (pin "2" (uuid bb6756d3-18d2-4ede-a75a-d1e60a4036dc))
+    (pin "3" (uuid fc942eab-cd45-433b-8879-13f5c190c94a))
+    (pin "4" (uuid f80e2b0b-1a51-47d6-9139-7e1280e74cf5))
+    (pin "5" (uuid cf451f7c-043d-4ab8-8d65-0a8345f99e8c))
+    (pin "6" (uuid 74b55c2c-47c4-4b6d-b637-38840f090b3b))
+    (pin "7" (uuid c0e887da-a5a2-4f10-a7d2-17fe60b7e665))
+    (pin "8" (uuid bddf935b-e1b6-4a73-883d-e91460d79aef))
+    (pin "9" (uuid bb30abf5-3b41-48fa-9c6f-34fa8d859245))
     (instances
       (project "pcb_redesign"
         (path "/fb030e39-7dd3-46a0-8379-c26b3ef1b0a0/6a7629e6-5379-48e0-a979-c6c26844d2b7"
@@ -444,15 +444,15 @@
     (property "Datasheet" "" (at 82.55 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0358e206-d326-4264-8070-0973330fcabb))
-    (pin "2" (uuid b6c09310-63c2-4c19-91b9-b22e69cfa187))
-    (pin "3" (uuid 629ea46e-a308-499b-a683-694d44726aae))
-    (pin "4" (uuid 26537e74-e4f8-4609-b605-0847ff2b66fd))
-    (pin "5" (uuid c262c26a-d0b1-4ea3-bb68-f2723a9a5679))
-    (pin "6" (uuid ca397eee-091e-40bd-9aac-43c948791942))
-    (pin "7" (uuid ca025d77-0b63-497d-b902-7f44fa931318))
-    (pin "8" (uuid 14546686-28a8-4da5-a223-3694282098b1))
-    (pin "9" (uuid 7f20b4db-0320-4ec9-8e64-3132f4058641))
+    (pin "1" (uuid c6093bef-dd15-449f-a7b9-69637c7f6545))
+    (pin "2" (uuid 617a4e37-6f7d-4f50-b9b9-576c451d46fb))
+    (pin "3" (uuid 9c4a1da0-20eb-4db8-bc98-30c01ab5d59c))
+    (pin "4" (uuid 7df268ef-3ab7-452e-b9a1-7867f5d67f2f))
+    (pin "5" (uuid 72802b0b-1906-4009-a079-46a06a435f64))
+    (pin "6" (uuid 09a93c8b-202f-4493-ada1-89fe1fcfe152))
+    (pin "7" (uuid 7323a201-b273-4a61-8ddf-fca37fc72081))
+    (pin "8" (uuid a97f4879-ef26-4ae4-a419-4b44cd2eab2e))
+    (pin "9" (uuid 056a7ebf-efe3-4b8d-8267-e1563445941e))
     (instances
       (project "pcb_redesign"
         (path "/fb030e39-7dd3-46a0-8379-c26b3ef1b0a0/6a7629e6-5379-48e0-a979-c6c26844d2b7"
@@ -477,8 +477,8 @@
     (property "Datasheet" "~" (at 55.88 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7f82e291-f9ad-4a22-bf3b-ebfe931ccd50))
-    (pin "2" (uuid 05f97d63-e4d5-422b-bf2c-57c42f996a12))
+    (pin "1" (uuid b408e2e7-16bc-43d6-8068-4e91c0a8d4ef))
+    (pin "2" (uuid 0e003c85-e88b-428b-9d45-d5392249635a))
     (instances
       (project "pcb_redesign"
         (path "/fb030e39-7dd3-46a0-8379-c26b3ef1b0a0/6a7629e6-5379-48e0-a979-c6c26844d2b7"
@@ -503,8 +503,8 @@
     (property "Datasheet" "" (at 140.97 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 46ca5d74-42d2-41c5-8112-b654facdad69))
-    (pin "2" (uuid 3846aca2-aef6-4a7d-966f-3e72b11801f9))
+    (pin "1" (uuid c07cce81-662c-426d-a6bf-062e057fcefc))
+    (pin "2" (uuid 93a5e974-e64c-47ec-9018-9b9c9149e9f3))
     (instances
       (project "pcb_redesign"
         (path "/fb030e39-7dd3-46a0-8379-c26b3ef1b0a0/6a7629e6-5379-48e0-a979-c6c26844d2b7"
@@ -529,8 +529,8 @@
     (property "Datasheet" "" (at 115.57 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 95a1c14a-d112-4b0a-9433-0015215ee50f))
-    (pin "2" (uuid 11cf15ce-dbc4-4239-9ad8-7923d4f411fe))
+    (pin "1" (uuid 8cf5b85c-a278-4873-87e6-cb5a0183d901))
+    (pin "2" (uuid 2c10f8e1-443f-40d4-a5e8-89c4234572c6))
     (instances
       (project "pcb_redesign"
         (path "/fb030e39-7dd3-46a0-8379-c26b3ef1b0a0/6a7629e6-5379-48e0-a979-c6c26844d2b7"
@@ -555,8 +555,8 @@
     (property "Datasheet" "~" (at 55.88 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 20fe83a3-6b23-4c01-86b6-43a36bcccb9f))
-    (pin "2" (uuid cdc36cd7-0f1c-421b-ab5a-bb833fe8c6d3))
+    (pin "1" (uuid 328d8707-940e-45fa-9815-5cc53934f080))
+    (pin "2" (uuid bf33fc99-cdc2-44db-863e-f2b9afdb4473))
     (instances
       (project "pcb_redesign"
         (path "/fb030e39-7dd3-46a0-8379-c26b3ef1b0a0/6a7629e6-5379-48e0-a979-c6c26844d2b7"
@@ -581,8 +581,8 @@
     (property "Datasheet" "~" (at 57.15 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3c34fc4a-3738-4905-ae4a-16c1e2331a9d))
-    (pin "2" (uuid 36bb63f1-abb9-4da1-a9aa-d7db3f80d3ee))
+    (pin "1" (uuid 2e1af348-86db-43b7-8e6c-2ead060f0464))
+    (pin "2" (uuid e058e3d1-1eda-4f63-81a7-eacfb1df77dc))
     (instances
       (project "pcb_redesign"
         (path "/fb030e39-7dd3-46a0-8379-c26b3ef1b0a0/6a7629e6-5379-48e0-a979-c6c26844d2b7"
@@ -607,8 +607,8 @@
     (property "Datasheet" "~" (at 57.15 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9169f013-a19b-4b9a-8aa6-08296d919429))
-    (pin "2" (uuid 19fddbdb-93ff-46f2-bc2a-4601e2293439))
+    (pin "1" (uuid ee852d3f-ac38-4632-8d37-46df15a8f62a))
+    (pin "2" (uuid 1cca569b-dc6f-49f3-a50f-b1e7680b7be2))
     (instances
       (project "pcb_redesign"
         (path "/fb030e39-7dd3-46a0-8379-c26b3ef1b0a0/6a7629e6-5379-48e0-a979-c6c26844d2b7"
