@@ -4,7 +4,7 @@
     (property "Reference" "J" (id 0) (at -5.08 11.43 0)
       (effects (font (size 1.27 1.27)) (justify bottom left))
     )
-    (property "Value" "10118192-0002LF" (id 1) (at -5.08 -12.7 0)
+    (property "Value" "10118192-0002LF" (id 1) (at -5.08 -25.4 0)
       (effects (font (size 1.27 1.27)) (justify bottom left))
     )
     (property "Footprint" "AMPHENOL_10118192-0002LF" (id 2) (at 0 0 0)
@@ -23,7 +23,7 @@
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (symbol "10118192-0002LF_0_0"
-      (rectangle (start -5.08 -10.16) (end 5.08 10.16)
+      (rectangle (start -5.08 -22.86) (end 5.08 10.16)
         (stroke (width 0.254)) (fill (type background))
       )
       (pin bidirectional line (at -10.16 5.08 0) (length 5.08)
@@ -74,40 +74,40 @@
           (effects (font (size 1.016 1.016)))
         )
       )
-      (pin passive line (at -10.16 -7.62 0) (length 5.08)
-        (name "SHIELD"
+      (pin passive line (at -10.16 -10.16 0) (length 5.08)
+        (name "SHIELD__1"
           (effects (font (size 1.016 1.016)))
         )
         (number "S2"
           (effects (font (size 1.016 1.016)))
         )
       )
-      (pin passive line (at -10.16 -7.62 0) (length 5.08)
-        (name "SHIELD"
+      (pin passive line (at -10.16 -12.7 0) (length 5.08)
+        (name "SHIELD__2"
           (effects (font (size 1.016 1.016)))
         )
         (number "S3"
           (effects (font (size 1.016 1.016)))
         )
       )
-      (pin passive line (at -10.16 -7.62 0) (length 5.08)
-        (name "SHIELD"
+      (pin passive line (at -10.16 -15.24 0) (length 5.08)
+        (name "SHIELD__3"
           (effects (font (size 1.016 1.016)))
         )
         (number "S4"
           (effects (font (size 1.016 1.016)))
         )
       )
-      (pin passive line (at -10.16 -7.62 0) (length 5.08)
-        (name "SHIELD"
+      (pin passive line (at -10.16 -17.78 0) (length 5.08)
+        (name "SHIELD__4"
           (effects (font (size 1.016 1.016)))
         )
         (number "S5"
           (effects (font (size 1.016 1.016)))
         )
       )
-      (pin passive line (at -10.16 -7.62 0) (length 5.08)
-        (name "SHIELD"
+      (pin passive line (at -10.16 -20.32 0) (length 5.08)
+        (name "SHIELD__5"
           (effects (font (size 1.016 1.016)))
         )
         (number "S6"

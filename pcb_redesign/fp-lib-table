@@ -2,7 +2,7 @@
   (version 7)
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/esp_lib/kicad-libraries/footprints/Espressif.pretty")(options "")(descr ""))
   (lib (name "10uF_cap_0805")(type "KiCad")(uri "${KIPRJMOD}/esp_lib/10uF_capacitor")(options "")(descr ""))
-  (lib (name "micro_usb_type_b")(type "KiCad")(uri "${KIPRJMOD}/esp_lib/usb_symbol")(options "")(descr ""))
+  (lib (name "micro_usb_type_b")(type "KiCad")(uri "${KIPRJMOD}/esp_lib/micro_usb")(options "")(descr ""))
   (lib (name "0_ohm_0805")(type "KiCad")(uri "${KIPRJMOD}/esp_lib/0_ohm_0805")(options "")(descr ""))
   (lib (name "0.1uF_cap_0603")(type "KiCad")(uri "${KIPRJMOD}/esp_lib/0.1uF_cap")(options "")(descr ""))
   (lib (name "100_ohm_0603")(type "KiCad")(uri "${KIPRJMOD}/esp_lib/100_ohm_0603")(options "")(descr ""))
