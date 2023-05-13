@@ -15,4 +15,5 @@
   (lib (name "green_LED")(type "KiCad")(uri "${KIPRJMOD}/esp_lib/green_LED_0805")(options "")(descr ""))
   (lib (name "motor_driver_ic")(type "KiCad")(uri "${KIPRJMOD}/esp_lib/motor_driver_ic")(options "")(descr ""))
   (lib (name "motor")(type "KiCad")(uri "${KIPRJMOD}/esp_lib/motor/motor.pretty")(options "")(descr ""))
+  (lib (name "bomba")(type "KiCad")(uri "${KIPRJMOD}/esp_lib/bomba")(options "")(descr ""))
 )
